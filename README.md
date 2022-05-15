@@ -2,9 +2,9 @@
 
 ### What's new?
 
-We uploaded sudoku E No.26, S No.26 and EX No.25
+We uploaded sudoku E No.27, S No.27
 
-We also changed README.md (Exactly what you are looking at)
+We also updated README.md (Exactly what you are looking at)
 
 ### What do the labels mean?
 
