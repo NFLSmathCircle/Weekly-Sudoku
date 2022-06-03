@@ -16,7 +16,7 @@ S  means **_STANDARD_**
 
 E  means **_EXTRA_**
 
-SS means **_Summer Special_**
+SS means **_Summer Special_** (Note:`Summer Special` sudoku won't be offered offline. It's only for `Online` ones.)
 
 ### How can I hand in my finished sudoku?
 
