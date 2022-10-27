@@ -11,8 +11,13 @@
 ## About the sudoku:
 
 For F No.1 and F No.2, there is no **_EXTRA_** sudoku.
+
 For F No.3, there is a **_EXTRA_** sudoku.
 
 ## Our QQ group is still the same one. The number of it is **_1007843923_**.
 
 # Have fun!
+
+#### by XiaoXin1113
+
+#### updated 2022.10.27
