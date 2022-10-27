@@ -1,7 +1,6 @@
 # Weekly-Sudoku
 
 # Welcome to the **_Weekly-Sudoku_** repository of NFLS!
-
 # Our leader(monitor) this year is `yqy`.
 
 ### What's new?
